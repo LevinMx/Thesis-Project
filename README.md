@@ -1,2 +1,2 @@
-# Thesis-Project
-This is the code for my thesis project.
+# Thesis_Project
+This is my thesis project.
